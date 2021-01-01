@@ -1,5 +1,5 @@
 # Visualizing-Deep-Graph-Generative-Models-for-Drug-Discovery
-
+* Presented at 2020 KDD Workshop on Applied Data Science for Healthcare https://dshealthkdd.github.io/dshealth-2020/
 ### Abstract
 * First, we propose a visualization framework
 which provides interactive visualization tools to visualize molecules
@@ -14,8 +14,8 @@ AI-driven drug discovery models with some visual interpretive abilities. We beli
 novel drug molecules will provide valuable insights for AI-based
 approaches to timely combat future unforeseen pandemics.
 
-* Presented at 2020 KDD Workshop on Applied Data Science for Healthcare https://dshealthkdd.github.io/dshealth-2020/
 
+### Paper
 * Please see my paper at: https://arxiv.org/abs/2007.10333
 ## Demo:
 
